@@ -24,7 +24,7 @@ status-website:
   baseUrl: /holonet-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Holonet Uptime Monitor
-  introTitle: "*Holonet* Service Monitor"
+  introTitle: "**Holonet** Service Monitor"
   #introMessage: 
   navbar:
     - title: Status
