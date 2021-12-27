@@ -6,7 +6,7 @@ sites:
   - name: Dashboard
     url: https://holonet.us
   - name: Plex
-    url: https://plex.holonet.us:32400/web
+    url: http://plex.holonet.us:32400/web
   - name: Overseerr
     url: https://overseerr.holonet.us
 
