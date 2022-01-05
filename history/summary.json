@@ -76,7 +76,7 @@
     "url": "https://unifi.holonet.us",
     "icon": "https://favicons.githubusercontent.com/unifi.holonet.us",
     "slug": "uni-fi-controller",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 356,
     "timeMonth": 504,
     "timeYear": 504,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-05": 0
+    }
   }
 ]
