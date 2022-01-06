@@ -4,64 +4,70 @@
     "url": "https://holonet.us",
     "icon": "https://favicons.githubusercontent.com/holonet.us",
     "slug": "dashboard",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 426,
     "timeDay": 384,
     "timeWeek": 408,
     "timeMonth": 426,
     "timeYear": 426,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-06": 2
+    }
   },
   {
     "name": "Plex",
     "url": "$PLEX_VIA_PORT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plex",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 302,
     "timeDay": 344,
     "timeWeek": 309,
     "timeMonth": 302,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-06": 2
+    }
   },
   {
     "name": "Overseerr",
     "url": "https://overseerr.holonet.us",
     "icon": "https://favicons.githubusercontent.com/overseerr.holonet.us",
     "slug": "overseerr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1636,
     "timeDay": 425,
     "timeWeek": 515,
     "timeMonth": 1636,
     "timeYear": 1636,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-06": 1
+    }
   },
   {
     "name": "BitWarden",
     "url": "$BITWARDEN_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bit-warden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
@@ -69,24 +75,28 @@
     "timeWeek": 268,
     "timeMonth": 244,
     "timeYear": 244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-06": 1
+    }
   },
   {
     "name": "UniFi Controller",
     "url": "https://unifi.holonet.us",
     "icon": "https://favicons.githubusercontent.com/unifi.holonet.us",
     "slug": "uni-fi-controller",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 490,
-    "timeDay": 414,
+    "timeDay": 321,
     "timeWeek": 376,
     "timeMonth": 490,
     "timeYear": 490,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-06": 0
+    }
   }
 ]
