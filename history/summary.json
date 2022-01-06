@@ -44,19 +44,19 @@
     "url": "https://overseerr.holonet.us",
     "icon": "https://favicons.githubusercontent.com/overseerr.holonet.us",
     "slug": "overseerr",
-    "status": "down",
-    "uptime": "99.10%",
-    "uptimeDay": "91.22%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.10%",
-    "time": 1636,
-    "timeDay": 425,
-    "timeWeek": 515,
-    "timeMonth": 1636,
-    "timeYear": 1636,
+    "status": "up",
+    "uptime": "99.03%",
+    "uptimeDay": "90.54%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.03%",
+    "time": 1795,
+    "timeDay": 2301,
+    "timeWeek": 972,
+    "timeMonth": 1795,
+    "timeYear": 1795,
     "dailyMinutesDown": {
-      "2022-01-06": 126
+      "2022-01-06": 136
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://unifi.holonet.us",
     "icon": "https://favicons.githubusercontent.com/unifi.holonet.us",
     "slug": "uni-fi-controller",
-    "status": "down",
-    "uptime": "99.10%",
-    "uptimeDay": "91.29%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.10%",
-    "time": 490,
-    "timeDay": 321,
-    "timeWeek": 376,
-    "timeMonth": 490,
-    "timeYear": 490,
+    "status": "up",
+    "uptime": "99.03%",
+    "uptimeDay": "90.61%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.03%",
+    "time": 501,
+    "timeDay": 479,
+    "timeWeek": 405,
+    "timeMonth": 501,
+    "timeYear": 501,
     "dailyMinutesDown": {
-      "2022-01-06": 125
+      "2022-01-06": 135
     }
   }
 ]
