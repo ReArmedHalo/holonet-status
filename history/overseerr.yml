@@ -1,7 +1,7 @@
 url: https://overseerr.holonet.us
-status: up
-code: 200
-responseTime: 3180
-lastUpdated: 2022-02-27T23:01:10.277Z
+status: down
+code: 502
+responseTime: 6376
+lastUpdated: 2022-02-28T01:31:10.397Z
 startTime: Mon Dec 27 2021 19:59:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
