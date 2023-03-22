@@ -9,11 +9,11 @@
     "uptimeDay": "98.69%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.70%",
-    "time": 688,
-    "timeDay": 732,
-    "timeWeek": 744,
-    "timeMonth": 792,
+    "uptimeYear": "99.72%",
+    "time": 689,
+    "timeDay": 837,
+    "timeWeek": 745,
+    "timeMonth": 787,
     "timeYear": 745,
     "dailyMinutesDown": {
       "2023-03-21": 19,
@@ -35,8 +35,7 @@
       "2022-08-21": 124,
       "2022-07-29": 43,
       "2022-06-18": 27,
-      "2022-06-04": 17,
-      "2022-03-22": 164
+      "2022-06-04": 17
     }
   },
   {
@@ -51,10 +50,10 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.23%",
     "time": 362,
-    "timeDay": 150,
-    "timeWeek": 265,
-    "timeMonth": 931,
-    "timeYear": 385,
+    "timeDay": 456,
+    "timeWeek": 278,
+    "timeMonth": 935,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2023-03-14": 73,
       "2023-02-21": 33,
@@ -72,8 +71,7 @@
       "2022-07-29": 42,
       "2022-06-18": 26,
       "2022-06-13": 211,
-      "2022-03-26": 238,
-      "2022-03-22": 19
+      "2022-03-26": 238
     }
   },
   {
@@ -83,17 +81,16 @@
     "slug": "overseerr",
     "status": "up",
     "uptime": "98.42%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "98.82%",
-    "time": 1388,
-    "timeDay": 615,
-    "timeWeek": 778,
-    "timeMonth": 947,
-    "timeYear": 1347,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "98.85%",
+    "time": 1387,
+    "timeDay": 849,
+    "timeWeek": 789,
+    "timeMonth": 948,
+    "timeYear": 1346,
     "dailyMinutesDown": {
-      "2023-03-21": 9,
       "2023-03-14": 72,
       "2023-03-09": 20,
       "2023-02-21": 33,
@@ -120,8 +117,7 @@
       "2022-06-01": 45,
       "2022-04-22": 26,
       "2022-04-21": 4,
-      "2022-03-26": 26,
-      "2022-03-22": 215
+      "2022-03-26": 26
     }
   },
   {
@@ -131,17 +127,16 @@
     "slug": "bit-warden",
     "status": "up",
     "uptime": "98.11%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "98.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "98.53%",
     "time": 596,
-    "timeDay": 327,
-    "timeWeek": 361,
-    "timeMonth": 709,
-    "timeYear": 556,
+    "timeDay": 474,
+    "timeWeek": 386,
+    "timeMonth": 715,
+    "timeYear": 542,
     "dailyMinutesDown": {
-      "2023-03-21": 9,
       "2023-03-14": 66,
       "2023-03-09": 15,
       "2023-02-21": 32,
@@ -168,8 +163,7 @@
       "2022-06-13": 211,
       "2022-06-04": 16,
       "2022-04-22": 26,
-      "2022-04-21": 4,
-      "2022-03-22": 183
+      "2022-04-21": 4
     }
   },
   {
@@ -179,17 +173,16 @@
     "slug": "uni-fi-controller",
     "status": "up",
     "uptime": "96.63%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "95.90%",
-    "time": 1003,
-    "timeDay": 700,
-    "timeWeek": 734,
-    "timeMonth": 952,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "95.93%",
+    "time": 1002,
+    "timeDay": 793,
+    "timeWeek": 738,
+    "timeMonth": 951,
     "timeYear": 1103,
     "dailyMinutesDown": {
-      "2023-03-21": 9,
       "2023-03-14": 65,
       "2023-03-09": 15,
       "2023-02-21": 32,
@@ -224,8 +217,7 @@
       "2022-06-13": 211,
       "2022-06-04": 16,
       "2022-04-22": 26,
-      "2022-04-21": 3,
-      "2022-03-22": 165
+      "2022-04-21": 3
     }
   }
 ]
