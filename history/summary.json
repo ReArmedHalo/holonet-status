@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 718,
-    "timeDay": 648,
-    "timeWeek": 656,
-    "timeMonth": 776,
-    "timeYear": 759,
+    "timeDay": 750,
+    "timeWeek": 663,
+    "timeMonth": 773,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2023-05-08": 99,
       "2023-04-25": 27,
@@ -36,8 +36,7 @@
       "2022-08-23": 24,
       "2022-08-22": 36,
       "2022-08-21": 124,
-      "2022-07-29": 43,
-      "2022-06-18": 27
+      "2022-07-29": 43
     }
   },
   {
@@ -52,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
     "time": 364,
-    "timeDay": 257,
-    "timeWeek": 388,
-    "timeMonth": 376,
-    "timeYear": 400,
+    "timeDay": 158,
+    "timeWeek": 337,
+    "timeMonth": 373,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2023-05-08": 99,
       "2023-04-25": 26,
@@ -73,8 +72,7 @@
       "2022-09-02": 252,
       "2022-08-22": 36,
       "2022-08-21": 135,
-      "2022-07-29": 42,
-      "2022-06-18": 26
+      "2022-07-29": 42
     }
   },
   {
@@ -83,16 +81,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/overseerr.holonet.us.ico",
     "slug": "overseerr",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
-    "time": 1242,
-    "timeDay": 692,
-    "timeWeek": 758,
+    "time": 1241,
+    "timeDay": 532,
+    "timeWeek": 732,
     "timeMonth": 805,
-    "timeYear": 1021,
+    "timeYear": 1019,
     "dailyMinutesDown": {
       "2023-05-08": 98,
       "2023-04-25": 26,
@@ -115,8 +113,7 @@
       "2022-08-23": 24,
       "2022-08-22": 36,
       "2022-08-21": 133,
-      "2022-07-29": 42,
-      "2022-06-18": 26
+      "2022-07-29": 42
     }
   },
   {
@@ -125,15 +122,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bit-warden",
     "status": "up",
-    "uptime": "96.90%",
-    "uptimeDay": "29.03%",
-    "uptimeWeek": "4.15%",
+    "uptime": "96.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "18.47%",
     "uptimeMonth": "73.76%",
     "uptimeYear": "96.37%",
     "time": 715,
-    "timeDay": 597,
-    "timeWeek": 4941,
-    "timeMonth": 2211,
+    "timeDay": 415,
+    "timeWeek": 4160,
+    "timeMonth": 2210,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2023-06-16": 1043,
@@ -169,8 +166,7 @@
       "2022-08-23": 24,
       "2022-08-22": 763,
       "2022-08-21": 132,
-      "2022-07-29": 41,
-      "2022-06-18": 25
+      "2022-07-29": 41
     }
   },
   {
@@ -179,16 +175,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/unifi.holonet.us.ico",
     "slug": "uni-fi-controller",
     "status": "up",
-    "uptime": "95.11%",
+    "uptime": "95.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.96%",
     "time": 1129,
-    "timeDay": 768,
-    "timeWeek": 705,
-    "timeMonth": 785,
-    "timeYear": 1201,
+    "timeDay": 580,
+    "timeWeek": 678,
+    "timeMonth": 788,
+    "timeYear": 1199,
     "dailyMinutesDown": {
       "2023-05-08": 97,
       "2023-04-25": 25,
@@ -233,8 +229,7 @@
       "2022-08-23": 24,
       "2022-08-22": 65,
       "2022-08-21": 112,
-      "2022-07-29": 41,
-      "2022-06-18": 44
+      "2022-07-29": 41
     }
   }
 ]
