@@ -11,9 +11,9 @@
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.80%",
     "time": 780,
-    "timeDay": 853,
-    "timeWeek": 810,
-    "timeMonth": 783,
+    "timeDay": 709,
+    "timeWeek": 764,
+    "timeMonth": 785,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2023-08-12": 285,
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.36%",
-    "time": 378,
-    "timeDay": 217,
-    "timeWeek": 352,
-    "timeMonth": 362,
-    "timeYear": 398,
+    "time": 377,
+    "timeDay": 422,
+    "timeWeek": 350,
+    "timeMonth": 366,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2023-08-12": 270,
       "2023-07-16": 100,
@@ -79,12 +79,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.37%",
-    "uptimeYear": "99.01%",
+    "uptimeYear": "99.28%",
     "time": 1123,
-    "timeDay": 597,
-    "timeWeek": 828,
-    "timeMonth": 815,
-    "timeYear": 962,
+    "timeDay": 618,
+    "timeWeek": 746,
+    "timeMonth": 811,
+    "timeYear": 953,
     "dailyMinutesDown": {
       "2023-08-12": 276,
       "2023-07-16": 100,
@@ -103,8 +103,7 @@
       "2022-10-30": 117,
       "2022-10-03": 24,
       "2022-09-23": 30,
-      "2022-09-06": 173,
-      "2022-09-05": 1440
+      "2022-09-06": 173
     }
   },
   {
@@ -119,9 +118,9 @@
     "uptimeMonth": "99.37%",
     "uptimeYear": "96.26%",
     "time": 744,
-    "timeDay": 352,
-    "timeWeek": 471,
-    "timeMonth": 446,
+    "timeDay": 390,
+    "timeWeek": 448,
+    "timeMonth": 445,
     "timeYear": 865,
     "dailyMinutesDown": {
       "2023-08-12": 276,
@@ -165,16 +164,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/unifi.holonet.us.ico",
     "slug": "uni-fi-controller",
     "status": "up",
-    "uptime": "95.56%",
+    "uptime": "95.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.37%",
-    "uptimeYear": "93.06%",
-    "time": 1128,
+    "uptimeYear": "93.33%",
+    "time": 1127,
     "timeDay": 745,
-    "timeWeek": 845,
-    "timeMonth": 842,
-    "timeYear": 1157,
+    "timeWeek": 821,
+    "timeMonth": 841,
+    "timeYear": 1144,
     "dailyMinutesDown": {
       "2023-08-12": 275,
       "2023-07-16": 100,
@@ -214,8 +213,7 @@
       "2022-09-09": 1440,
       "2022-09-08": 1440,
       "2022-09-07": 1440,
-      "2022-09-06": 1440,
-      "2022-09-05": 1440
+      "2022-09-06": 1440
     }
   }
 ]
