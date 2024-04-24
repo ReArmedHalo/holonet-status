@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/holonet.us.ico",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "99.51%",
+    "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.23%",
     "time": 827,
-    "timeDay": 729,
-    "timeWeek": 658,
-    "timeMonth": 729,
-    "timeYear": 837,
+    "timeDay": 1333,
+    "timeWeek": 752,
+    "timeMonth": 750,
+    "timeYear": 838,
     "dailyMinutesDown": {
       "2024-04-10": 30,
       "2024-01-30": 95,
@@ -27,8 +27,7 @@
       "2023-10-02": 119,
       "2023-08-12": 285,
       "2023-07-11": 71,
-      "2023-05-08": 99,
-      "2023-04-25": 27
+      "2023-05-08": 99
     }
   },
   {
@@ -43,9 +42,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.55%",
     "time": 388,
-    "timeDay": 323,
-    "timeWeek": 360,
-    "timeMonth": 466,
+    "timeDay": 300,
+    "timeWeek": 357,
+    "timeMonth": 450,
     "timeYear": 357,
     "dailyMinutesDown": {
       "2024-04-10": 30,
@@ -56,8 +55,7 @@
       "2023-08-12": 270,
       "2023-07-16": 100,
       "2023-07-15": 1135,
-      "2023-05-08": 99,
-      "2023-04-25": 26
+      "2023-05-08": 99
     }
   },
   {
@@ -71,10 +69,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.00%",
-    "time": 869,
-    "timeDay": 1038,
-    "timeWeek": 761,
-    "timeMonth": 793,
+    "time": 859,
+    "timeDay": 863,
+    "timeWeek": 770,
+    "timeMonth": 795,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2024-04-10": 29,
@@ -90,8 +88,7 @@
       "2023-07-16": 100,
       "2023-07-15": 1134,
       "2023-07-11": 46,
-      "2023-05-08": 98,
-      "2023-04-25": 26
+      "2023-05-08": 98
     }
   },
   {
@@ -106,9 +103,9 @@
     "uptimeMonth": "97.29%",
     "uptimeYear": "94.88%",
     "time": 786,
-    "timeDay": 379,
-    "timeWeek": 2809,
-    "timeMonth": 1064,
+    "timeDay": 357,
+    "timeWeek": 2810,
+    "timeMonth": 1062,
     "timeYear": 868,
     "dailyMinutesDown": {
       "2024-04-18": 118,
@@ -145,8 +142,7 @@
       "2023-06-09": 1246,
       "2023-06-05": 309,
       "2023-05-26": 257,
-      "2023-05-08": 222,
-      "2023-04-25": 25
+      "2023-05-08": 222
     }
   },
   {
@@ -157,14 +153,14 @@
     "status": "up",
     "uptime": "94.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "67.93%",
+    "uptimeWeek": "82.22%",
     "uptimeMonth": "91.56%",
-    "uptimeYear": "93.78%",
+    "uptimeYear": "94.06%",
     "time": 963,
-    "timeDay": 771,
-    "timeWeek": 2380,
-    "timeMonth": 1118,
-    "timeYear": 861,
+    "timeDay": 838,
+    "timeWeek": 2226,
+    "timeMonth": 1127,
+    "timeYear": 849,
     "dailyMinutesDown": {
       "2024-04-18": 390,
       "2024-04-17": 1423,
@@ -204,8 +200,7 @@
       "2023-08-12": 275,
       "2023-07-16": 100,
       "2023-07-15": 1133,
-      "2023-05-08": 97,
-      "2023-04-25": 25
+      "2023-05-08": 97
     }
   }
 ]
