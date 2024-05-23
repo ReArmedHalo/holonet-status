@@ -1,7 +1,7 @@
 url: https://unifi.holonet.us
-status: down
-code: 502
-responseTime: 348
-lastUpdated: 2024-05-23T19:33:47.800Z
+status: up
+code: 200
+responseTime: 705
+lastUpdated: 2024-05-23T19:41:12.714Z
 startTime: 2021-12-27T20:30:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
