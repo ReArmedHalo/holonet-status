@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
     "time": 812,
-    "timeDay": 766,
-    "timeWeek": 777,
-    "timeMonth": 743,
-    "timeYear": 791,
+    "timeDay": 640,
+    "timeWeek": 763,
+    "timeMonth": 735,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2024-06-04": 22,
       "2024-04-10": 30,
@@ -41,9 +41,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 392,
-    "timeDay": 486,
-    "timeWeek": 391,
-    "timeMonth": 433,
+    "timeDay": 390,
+    "timeWeek": 390,
+    "timeMonth": 429,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2024-06-04": 22,
@@ -55,8 +55,7 @@
       "2023-10-04": 418,
       "2023-10-02": 119,
       "2023-08-12": 270,
-      "2023-07-16": 100,
-      "2023-07-15": 1135
+      "2023-07-16": 100
     }
   },
   {
@@ -71,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.03%",
     "time": 858,
-    "timeDay": 1062,
-    "timeWeek": 861,
-    "timeMonth": 877,
+    "timeDay": 993,
+    "timeWeek": 870,
+    "timeMonth": 872,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2024-06-04": 22,
@@ -87,8 +86,7 @@
       "2023-10-04": 416,
       "2023-10-02": 118,
       "2023-08-12": 276,
-      "2023-07-16": 100,
-      "2023-07-15": 1134
+      "2023-07-16": 100
     }
   },
   {
@@ -102,10 +100,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.02%",
-    "time": 851,
-    "timeDay": 595,
-    "timeWeek": 461,
-    "timeMonth": 432,
+    "time": 852,
+    "timeDay": 453,
+    "timeWeek": 457,
+    "timeMonth": 431,
     "timeYear": 745,
     "dailyMinutesDown": {
       "2024-06-04": 22,
@@ -139,8 +137,7 @@
       "2023-10-02": 111,
       "2023-08-12": 276,
       "2023-08-01": 522,
-      "2023-07-16": 100,
-      "2023-07-15": 1134
+      "2023-07-16": 100
     }
   },
   {
@@ -149,15 +146,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/unifi.holonet.us.ico",
     "slug": "uni-fi-controller",
     "status": "up",
-    "uptime": "95.48%",
+    "uptime": "95.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "83.86%",
     "uptimeYear": "91.60%",
     "time": 993,
-    "timeDay": 994,
-    "timeWeek": 802,
-    "timeMonth": 745,
+    "timeDay": 755,
+    "timeWeek": 791,
+    "timeMonth": 738,
     "timeYear": 900,
     "dailyMinutesDown": {
       "2024-06-28": 48,
@@ -216,8 +213,7 @@
       "2023-10-04": 414,
       "2023-10-02": 111,
       "2023-08-12": 275,
-      "2023-07-16": 100,
-      "2023-07-15": 1133
+      "2023-07-16": 100
     }
   }
 ]
